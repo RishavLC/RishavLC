@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi there, I'm Rishav Shrestha. 👋
 
@@ -134,4 +134,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
