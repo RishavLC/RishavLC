@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5c4&height=200&section=header&text=Rishav%20Shrestha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Full-Stack%20Developer%20%7C%20Graphic%20Designer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5c4&height=200&section=header&text=Rishav%20Shrestha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Student%20%7C%20Full-Stack%20Developer%20%7C%20Graphic%20Designer Jr&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+<!--
 <img align="right" alt="Coding GIF" width="360" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5a85c3c4d4fdab6761a06a7e6/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623566626236633832302f313534313538303631313632342d5445363451474b524a4738535741495553374e432f6b6531375a77644742684c57492d326a31752e706e67"/>
 
 ### 👨‍💻 About Me
@@ -160,3 +160,4 @@ const rishav = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5c4&height=100&section=footer" width="100%"/>
 
 </div>
+-->
